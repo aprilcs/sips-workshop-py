@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aprilcs/sips-workshop-py/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aprilcs/sips-workshop-py/master) 
 
 # Title
     The great candy swap experiment :)
